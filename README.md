@@ -1,4 +1,4 @@
-# Fermionic quantum computation with Cooper's pair splitter: estates evolution by Clifford+T group and parity preserving
+# Fermionic quantum computation with Cooper's pair splitter: estates evolution by Matchgates and parity preserving
 
 > [!NOTE]
 > This enviroment is made with pixi. For more information visit [this](https://pixi.prefix.dev/latest/). 
